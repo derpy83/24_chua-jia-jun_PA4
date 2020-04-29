@@ -1,1 +1,18 @@
 Hello
+Updated by 36_AtagoHideki
+
+System testing ​
+
+What is system Testing?​
+
+System Testing is conducted by theDeveloper
+
+It is type of whitebox testing
+
+Acceptance testing​
+
+What is acceptance Testing?​
+
+Acceptance Testing is conducted by Consumers
+
+It is type of blackbox
